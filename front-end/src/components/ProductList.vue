@@ -1,5 +1,6 @@
 <template>
   <div class="flex flex-col space-y-1.5">
+    <h1>Hi</h1>
     <router-link
       to="/create"
       class="w-fit h-fit px-4 py-2 rounded-md bg-emerald-300 text-white text-md font-semibold"
